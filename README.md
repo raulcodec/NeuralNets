@@ -1,1 +1,1 @@
-# NeuralNets
+# NeuralNets Playground
